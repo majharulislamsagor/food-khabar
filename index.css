@@ -5,7 +5,8 @@ body{
 .name{
     color: blue;
 }
-font-family: 'Otomanopee One', sans-serif;
+font-family{: 'Otomanopee One', sans-serif;
+}
 h2{
     color: chocolate;
 }
