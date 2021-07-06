@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+}
+
+.name{
+    color: blue;
+}
+font-family: 'Otomanopee One', sans-serif;
+h2{
+    color: chocolate;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+
+}
+h1{
+    font-size:45px;
+}
+h2{
+    font-size: 35px;
+}
+
+.flexible-container
+{display: flex;
+    text-align: justify;
+    margin-bottom: 10px;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color:white;
+    background-color: orange;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 15px;
+}
+    .hulf-width{
+        width: 100%;
+        padding-right:2%;
+        padding-left: 2%;
+        }
+
+
+    .hulf-width img{
+        width: 50%;
+        text-align: left;
+        margin-left: 50px;
+    }
+    .cook{
+        background-image: url(food-network-main/images/shapes/yooo.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        }
+
+        .lobster{
+            text-align: justify;
+            text-align: center;
+            margin: 50px;
+        }
+
+        .lobstar-item{
+            text-align: justify;
+            text-align: center;
+            width: 400px;
+            margin-left:3%;
+            margin-right:3px;
+            padding: 10px;
+            border-radius: 40px;
+            box-shadow:10px 10px 40px gray;
+        }
+    #lobster-site1{
+        border-left:10px ;
+        border-right: 10px;
+    }
+    #lobster-site2 {
+        border-left:10px ;
+        border-right: 10px;
+    }
+    #lobster-site3 {
+      border-left: 10px;
+        border-right: 10px;
+    }
+
+    footer{
+        text-align: center;
+    }
+    .name2{
+        color: orangered;
+    }
